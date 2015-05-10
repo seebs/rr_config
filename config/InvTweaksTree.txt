@@ -27,36 +27,96 @@
     <equipment>
         <weapon>
             <sword>
+                <boundSword id="AWWayofTime:energySword"/>
+		<caneSword id="witchery:canesword"/>
+                <darkSteelSword id="EnderIO:item.darkSteel_sword"/>
+                <fluxSword id="RedstoneArsenal:tool.swordFlux"/>
+                <battlesign id="TConstruct:battlesign"/>
+		<terraSword id="Botania:terraSword"/>
+		<elementiumSword id="Botania:elementiumSword"/>
+		<manasteelSword id="Botania:manasteelSword"/>
+                <scythe id="TConstruct:scythe"/>
+                <cutlass id="TConstruct:cutlass"/>
+                <broadsword id="TConstruct:broadsword"/>
+                <longsword id="TConstruct:longsword"/>
+                <rapier id="TConstruct:rapier"/>
+                <invarSword id="ThermalExpansion:tool.swordInvar"/>
                 <ironSword id="iron_sword"/>
                 <diamondSword id="diamond_sword"/>
                 <stoneSword id="stone_sword"/>
                 <goldSword id="golden_sword"/>
+                <frypan id="TConstruct:frypan"/>
                 <woodSword id="wooden_sword"/>
             </sword>
             <munition>
-                <bow id="bow"/>
-                <arrow id="arrow"/>
+	        <bow>
+                    <longbow id="TConstruct:LongBow"/>
+		    <livingwoodBow id="Botania:livingwoodBow"/>
+		    <crystalBow id="Botania:crystalBow"/>
+                    <fluxBow id="RedstoneArsenal:tool.bowFlux"/>
+		    <pistol id="Steamcraft:pistol"/>
+		    <musket id="Steamcraft:musket"/>
+		    <blunderbuss id="Steamcraft:blunderbuss"/>
+                    <crossbow id="TConstruct:Crossbow"/>
+                    <shortbow id="TConstruct:ShortBow"/>
+                    <invarBow id="ThermalExpansion:tool.bowInvar"/>
+                    <vanillaBow id="bow"/>
+		    <javelins id="TConstruct:Javelin"/>
+		</bow>
+		<ammunition>
+		    <tconbolt id="TConstruct:BoltAmmo"/>
+		    <tconarrow id="TConstruct:ArrowAmmo"/>
+                    <musketCartridge id="Steamcraft:musketCartridge"/>
+                    <arrow id="arrow"/>
+		</ammunition>
                 <snowball id="snowball"/>
             </munition>
         </weapon>
         <tool>
             <pickaxe>
+		<terraPick id="Botania:terraPick"/>
+                <boundPickaxe id="AWWayofTime:boundPickaxe"/>
+                <fluxPickaxe id="RedstoneArsenal:tool.pickaxeFlux"/>
+                <tconPickaxe id="TConstruct:pickaxe"/>
+		<elementiumPick id="Botania:elementiumPick"/>
+		<manasteelPick id="Botania:manasteelPick"/>
+                <darkSteelPickaxe id="EnderIO:darkSteel_pickaxe"/>
+                <invarPickaxe id="ThermalExpansion:tool.pickaxeInvar"/>
                 <diamondPickaxe id="diamond_pickaxe"/>
                 <goldPickaxe id="golden_pickaxe"/>
                 <ironPickaxe id="iron_pickaxe"/>
+                <steamDrill id="Steamcraft:steamDrill"/>
                 <stonePickaxe id="stone_pickaxe"/>
                 <woodPickaxe id="wooden_pickaxe"/>
             </pickaxe>
             <shovel>
+                <boundShovel id="AWWayofTime:boundShovel"/>
+                <fluxShovel id="RedstoneArsenal:tool.shovelFlux"/>
+                <tconShovel id="TConstruct:shovel"/>
+                <tconExcavator id="TConstruct:excavator"/>
+		<elementiumShovel id="Botania:elementiumShovel"/>
+		<manasteelShovel id="Botania:manasteelShovel"/>
+                <darkSteelShovel id="EnderIO:darkSteel_shovel"/>
+                <invarShovel id="ThermalExpansion:tool.shovelInvar"/>
                 <goldShovel id="golden_shovel"/>
                 <diamondShovel id="diamond_shovel"/>
+                <steamDrill id="Steamcraft:steamShovel"/>
                 <ironShovel id="iron_shovel"/>
                 <stoneShovel id="stone_shovel"/>
                 <woodShovel id="wooden_shovel"/>
             </shovel>
             <axe>
+                <boundAxe id="AWWayofTime:boundAxe"/>
+                <fluxAxe id="RedstoneArsenal:tool.axeFlux"/>
+                <tconAxe id="TConstruct:axe"/>
+		<elementiumAxe id="Botania:elementiumAxe"/>
+		<manasteelAxe id="Botania:manasteelAxe"/>
+                <tconLumberAxe id="TConstruct:lumberaxe"/>
+                <darkSteelAxe id="EnderIO:darkSteel_axe"/>
+                <invarAxe id="ThermalExpansion:tool.axeInvar"/>
                 <goldAxe id="golden_axe"/>
                 <diamondAxe id="diamond_axe"/>
+                <steamDrill id="Steamcraft:steamAxe"/>
                 <ironAxe id="iron_axe"/>
                 <stoneAxe id="stone_axe"/>
                 <woodAxe id="wooden_axe"/>
@@ -68,35 +128,53 @@
                 <stoneHoe id="iron_hoe"/>
                 <woodHoe id="wooden_hoe"/>
             </hoe>
+	    <hammer id="TConstruct:hammer"/>
             <shears id="shears"/>
             <fishingRod id="fishing_rod"/>
             <carrotOnAStick id="carrot_on_a_stick"/>
         </tool>
         <armor>
             <helmet>
+                <boundHelmet id="AWWayofTime:boundHelmet"/>
                 <diamondHelmet id="diamond_helmet"/>
                 <chainHelmet id="chainmail_helmet"/>
                 <ironHelmet id="iron_helmet"/>
+		<witchHat id="witchery:witchhat"/>
+		<babaHat id="witchery:babashat"/>
+		<hunterHat id="witchery:hunterhat"/>
                 <goldHelmet id="golden_helmet"/>
                 <leatherHelmet id="leather_helmet"/>
             </helmet>
             <chestplate>
+                <boundPlate id="AWWayofTime:boundPlate"/>
                 <diamondChestplate id="diamond_chestplate"/>
                 <chainChestplate id="chainmail_chestplate"/>
+		<witchRobe id="witchery:witchrobe"/>
+		<necroRobe id="witchery:necromancerrobe"/>
+		<hunterCoat id="witchery:huntercoat"/>
                 <ironChestplate id="iron_chestplate"/>
                 <goldChestplate id="golden_chestplate"/>
                 <leatherChestplate id="leather_chestplate"/>
             </chestplate>
             <leggings>
+                <boundLeggings id="AWWayofTime:boundLeggings"/>
                 <diamondLeggings id="diamond_leggings"/>
                 <chainLeggings id="chainmail_leggings"/>
+		<barkBelt id="witchery:barkbelt"/>
+		<bitingBelt id="witchery:bitingbelt"/>
+		<hunterLegs id="witchery:hunterlegs"/>
                 <ironLeggings id="iron_leggings"/>
                 <goldLeggings id="golden_leggings"/>
                 <leatherLeggings id="leather_leggings"/>
             </leggings>
             <boots>
+                <boundBoots id="AWWayofTime:boundBoots"/>
                 <diamondBoots id="diamond_boots"/>
                 <chainBoots id="chainmail_boots"/>
+		<seepingShoes id="witchery:seepingshoes"/>
+		<rubySlippers id="witchery:rubyslippers"/>
+		<iceSlippers id="witchery:iceslippers"/>
+		<hunterBoots id="witchery:hunterboots"/>
                 <ironBoots id="iron_boots"/>
                 <goldBoots id="golden_boots"/>
                 <leatherBoots id="leather_boots"/>
@@ -122,11 +200,10 @@
                 <diamondOreBlock id="diamond_ore"/>
                 <emeraldOreBlock id="emerald_ore"/>
             </oreBlock>
-            <dirts>
-                <dirt id="dirt" damage="0"/>
+            <dirt id="dirt">
                 <grasslessDirt id="dirt" damage="1"/>
                 <podzol id="dirt" damage="2"/>
-            </dirts>
+            </dirt>
             <wood>
                 <oakWood id="log" damage="0"/>
                 <birchWood id="log" damage="1"/>
@@ -361,10 +438,8 @@
                     <stoneSlab id="stone_slab" damage="0"/>
                     <sandstoneSlab id="stone_slab" damage="1"/>
                     <cobblestoneSlab id="stone_slab" damage="3"/>
-                    <brickSlab id="stone_slab" damage="4"/>
-                    <stoneBrickSlab id="stone_slab" damage="5"/>
-                    <netherBrickSlab id="stone_slab" damage="6"/>
-                    <quartzSlab id="stone_slab" damage="7"/>
+                    <stonebrickSlab id="stone_slab" damage="4"/>
+                    <brickSlab id="stone_slab" damage="5"/>
                     <doubleSlab>
                         <woodenDoubleSlabs>
                             <woodenStoneDoubleSlab id="double_stone_slab" damage="2"/>
@@ -376,13 +451,8 @@
                         <stoneDoubleSlab id="double_stone_slab" damage="0"/>
                         <sandstoneDoubleSlab id="double_stone_slab" damage="1"/>
                         <cobblestoneDoubleSlab id="double_stone_slab" damage="3"/>
-                        <brickDoubleSlab id="double_stone_slab" damage="4"/>
-                        <stoneBrickDoubleSlab id="double_stone_slab" damage="5"/>
-                        <netherBrickDoubleSlab id="double_stone_slab" damage="6"/>
-                        <quartzDoubleSlab id="double_stone_slab" damage="7"/>
-                        <smoothStoneDoubleSlab id="double_stone_slab" damage="8"/>
-                        <smoothSandstoneDoubleSlab id="double_stone_slab" damage="9"/>
-                        <quartzTileDoubleSlab id="double_stone_slab" damage="10"/>
+                        <stonebrickDoubleSlab id="double_stone_slab" damage="4"/>
+                        <brickDoubleSlab id="double_stone_slab" damage="5"/>
                     </doubleSlab>
                 </slabs>
                 <oreBlock>
@@ -552,9 +622,47 @@
     </resources>
     <item>
         <utility>
-            <torch id="torch"/>
+            <utilityObject>
+  	        <brewBag id="witchery:brewbag"/>
+	        <mysticBranch id="witchery:mysticbranch"/>
+	        <sigilOfHolding id="AWWayofTime:sigilOfHolding"/>
+                <bags>
+                    <backpack id="Backpack:backpack"/>
+		    <alchemicalBag id="ProjectE:item.pe_alchemical_bag"/>
+                    <awbackpack id="AncientWarfare:backpack"/>
+                    <satchel id="ThermalExpansion:satchel"/>
+                    <projRedBackpack id="ProjRed|Exploration:projectred.exploration.backpack"/>
+                    <apiaristBag id="Forestry:apiaristBag"/>
+                    <lepidopteristBag id="Forestry:lepidopteristBag"/>
+                    <minerBag id="Forestry:minerBag"/>
+                    <minerBagT2 id="Forestry:minerBagT2"/>
+                    <diggerBag id="Forestry:diggerBag"/>
+                    <diggerBagT2 id="Forestry:diggerBagT2"/>
+                    <foresterBag id="Forestry:foresterBag"/>
+                    <foresterBagT2 id="Forestry:foresterBagT2"/>
+                    <hunterBag id="Forestry:hunterBag"/>
+                    <hunterBagT2 id="Forestry:hunterBagT2"/>
+                    <adventurerBackpack id="Forestry:adventurerBackpack"/>
+                    <adventurerBackpackT2 id="Forestry:adventurerBackpackT2"/>
+                    <builderBackpack id="Forestry:builderBackpack"/>
+                    <builderBackpackT2 id="Forestry:builderBackpackT2"/>
+                    <rcBackpackT2 id="Railcraft:backpack.trackman.t2"/>
+                    <rcBackpackT1 id="Railcraft:backpack.trackman.t1"/>
+                </bags>
+            </utilityObject>
+	    <lighting>
+	        <bloodLamp id="AWWayofTime:itemBloodLightSigil"/>
+                <torch id="torch"/>
+                <ticoTorch id="TConstruct:decoration.stonetorch"/>
+	    </lighting>
             <flintAndSteel id="flint_and_steel"/>
-            <craftingTable id="crafting_table"/>
+	    <crafting>
+	        <craftinghalo id="Botania:craftingHalo"/>
+		<dualCrafter id="ganyssurface:portableDualWorkTable"/>
+                <workbenchBackpack id="Backpack:workbenchbackpack"/>
+                <pocketCraftingTable id="factorization:tool/pocket_crafting_table"/>
+                <craftingTable id="crafting_table"/>
+	    </crafting>
             <furnace id="furnace"/>
             <furnaceBurning id="lit_furnace"/>
             <chests>
@@ -594,10 +702,20 @@
             <lavaBucket id="lava_bucket"/>
         </bucket>
         <instrument>
+	    <antiqueatlas id="antiqueatlas:antiqueAtlas"/>
+	    <emptyantiqueatlas id="antiqueatlas:emptyAntiqueAtlas"/>
             <clock id="clock"/>
             <compass id="compass"/>
             <emptyMap id="map"/>
             <map id="filled_map"/>
+	    <bcmap id="BiblioCraft:item.BiblioMapTool"/>
+	    <bcatlas id="BiblioCraft:item.AtlasBook"/>
+	    <tfmap id="TwilightForest:item.magicMap"/>
+	    <tfmazemap id="TwilightForest:item.mazeMap"/>
+	    <tforemap id="TwilightForest:item.oreMap"/>
+	    <emptytfmap id="TwilightForest:item.emptyMagicMap"/>
+	    <emptytfmazemap id="TwilightForest:item.emptyMazeMap"/>
+	    <emptytforemap id="TwilightForest:item.emptyOreMap"/>
         </instrument>
         <vehicle>
             <boat id="boat"/>

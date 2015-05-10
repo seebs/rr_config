@@ -7,32 +7,23 @@ Setting up NEI Library...
 Setting up CreativeTab library...
 Found creative tab: tabBloodMagic
 Found creative tab: misc
-Found creative tab: IC2
-Found creative tab: materials
-Found creative tab: decorations
-Found creative tab: search
+Found creative tab: agricraft
 Found creative tab: tabs.awcore
 Found creative tab: tabs.automation
 Found creative tab: tabs.npc
 Found creative tab: tabs.structures
-Found creative tab: transportation
-Found creative tab: aroma1997core:creativetab
-Found creative tab: aroma1997sdimension:creativeTabDW
-Found creative tab: tabGeneral
-Found creative tab: tabArtifacts
 Found creative tab: Artifice
 Found creative tab: Artifice Worldgen
 Found creative tab: Automagy
 Found creative tab: tab.backpacks
+Found creative tab: materials
 Found creative tab: tools
 Found creative tab: BiblioCraft
 Found creative tab: BiblioCraftLights
-Found creative tab: BiblioWoodsBoP
 Found creative tab: BiblioWoodsForestry
 Found creative tab: BiblioWoodsNatura
 Found creative tab: BigReactors
 Found creative tab: buildingBlocks
-Found creative tab: tabBiomesOPlenty
 Found creative tab: Botania
 Found creative tab: Botany
 Found creative tab: buildcraft.blocks
@@ -45,13 +36,14 @@ Found creative tab: CarpentersBlocks
 Found creative tab: compactmachines
 Found creative tab: ComputerCraft
 Found creative tab: combat
+Found creative tab: decorations
 Found creative tab: blocksAndItems
 Found creative tab: food
 Found creative tab: toolsAndWeapons
-Found creative tab: Eln
 Found creative tab: enchiridion
 Found creative tab: EnderIO
 Found creative tab: EnderZoo
+Found creative tab: EnhancedInventories
 Found creative tab: apiculture
 Found creative tab: arboriculture
 Found creative tab: extraUtil
@@ -60,8 +52,6 @@ Found creative tab: forbidden
 Found creative tab: mobcrystal
 Found creative tab: forestry
 Found creative tab: lepidopterology
-Found creative tab: GalacticraftItems
-Found creative tab: GalacticraftBlocks
 Found creative tab: gardenCore
 Found creative tab: gardenTrees
 Found creative tab: Genetics
@@ -69,15 +59,11 @@ Found creative tab: gcewing_lighting:tab
 Found creative tab: tabGrowthCraft
 Found creative tab: tabGrCCellar
 Found creative tab: tabHardcoreEnderExpansion
-Found creative tab: redstone
-Found creative tab: tabHydraulicraft
-Found creative tab: tabGOW
-Found creative tab: IC2 NuclearControl 2
 Found creative tab: jabba
 Found creative tab: Logistics_Pipes
+Found creative tab: redstone
 Found creative tab: magicBees
 Found creative tab: Magistics
-Found creative tab: tabMekanism
 Found creative tab: Metallurgy.Machines
 Found creative tab: Metallurgy.Tools
 Found creative tab: Metallurgy.Items
@@ -86,6 +72,7 @@ Found creative tab: Metallurgy.Armor
 Found creative tab: metallurgyCore.items
 Found creative tab: MineFactory Reloaded
 Found creative tab: natura.plants
+Found creative tab: transportation
 Found creative tab: natura.nether
 Found creative tab: natura.trees
 Found creative tab: Nether Ores
@@ -94,7 +81,6 @@ Found creative tab: OpenComputers
 Found creative tab: tabOpenPeripheralAddons
 Found creative tab: Pistronics2
 Found creative tab: tabPneumaticCraft
-Found creative tab: Power Converters
 Found creative tab: TConstructBlocks
 Found creative tab: core
 Found creative tab: expansion
@@ -105,6 +91,7 @@ Found creative tab: trans
 Found creative tab: transport
 Found creative tab: ProjectE
 Found creative tab: RArm.creativeTab
+Found creative tab: railcraft
 Found creative tab: Random Things
 Found creative tab: redstonearsenal.creativeTab
 Found creative tab: RefinedRelocation
@@ -118,6 +105,8 @@ Found creative tab: SC2Blocks
 Found creative tab: SC2Modules
 Found creative tab: SC2Items
 Found creative tab: steves_production
+Found creative tab: storageDrawers
+Found creative tab: storageDrawersSorting
 Found creative tab: TConstructWeaponry
 Found creative tab: TConstructParts
 Found creative tab: TConstructTools
@@ -145,30 +134,22 @@ Found creative tab: aobd
 Found creative tab: appliedenergistics2
 Found creative tab: appliedenergistics2.facades
 Found creative tab: aura
-Found creative tab: BuildcraftAdditions
-Found creative tab: bcaCanisters
-Found creative tab: bcaDusts
-Found creative tab: Eureka
 Found creative tab: tabWoodChiselBlocks
 Found creative tab: tabModdedChiselBlocks
 Found creative tab: tabStoneChiselBlocks
 Found creative tab: tabOtherChiselBlocks
 Found creative tab: tabChisel
 Found creative tab: tabMetalChiselBlocks
-Found creative tab: ChocoCraft
 Found creative tab: tabComputronics
 Found creative tab: enhancedportals
-Found creative tab: ExAstrisTab
+Found creative tab: erebus.plants
+Found creative tab: erebus.block
+Found creative tab: erebus.special
+Found creative tab: erebus.gear
+Found creative tab: erebus.item
 Found creative tab: Extra_Cells
+Found creative tab: factorizationTab
 Found creative tab: Fluxed-Crystals
-Found creative tab: Fossil Items
-Found creative tab: Fossil Blocks
-Found creative tab: Fossil Combat
-Found creative tab: Fossil Bones
-Found creative tab: Fossil Material
-Found creative tab: Fossil Food
-Found creative tab: Fossil Test
-Found creative tab: Fossil Deco
 Found creative tab: funkylocomotion
 Found creative tab: ganysend
 Found creative tab: ganysnether
@@ -180,14 +161,12 @@ Found creative tab: guideapi.creativeTab
 Found creative tab: tabHarvestCraft2
 Found creative tab: tabHarvestCraft3
 Found creative tab: tabHarvestCraft
-Found creative tab: magicalcrops
 Found creative tab: malisisdoors
 Found creative tab: menagerie
-Found creative tab: Falling Meteors Mod
 Found creative tab: bdew.canisters
 Found creative tab: bdew.pressure
-Found creative tab: tabPrimitiveMobs
 Found creative tab: props.main
+Found creative tab: search
 Found creative tab: inventoryGenerators
 Found creative tab: structureTools
 Found creative tab: brewcraft.big
@@ -237,38 +216,18 @@ override called. Params: ThermalExpansion, florb, 0,1
 Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
 Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
 Loading: Mekanism.js
-override called. Params: Mekanism, GasTank, 100
-Regex match found! Mekanism:GasTank matches Mekanism:GasTank.
-Found ItemStack Mekanism:GasTank. 1xtile.GasTank@0
-override called. Params: Mekanism, *PlasticBlock, 0
-Regex match found! Mekanism:*PlasticBlock matches Mekanism:GlowPlasticBlock.
-Regex match found! Mekanism:*PlasticBlock matches Mekanism:PlasticBlock.
-Regex match found! Mekanism:*PlasticBlock matches Mekanism:ReinforcedPlasticBlock.
-Regex match found! Mekanism:*PlasticBlock matches Mekanism:RoadPlasticBlock.
-Regex match found! Mekanism:*PlasticBlock matches Mekanism:SlickPlasticBlock.
-Found ItemStack Mekanism:GlowPlasticBlock. 64xtile.GlowPlasticBlock@0
-Found ItemStack Mekanism:PlasticBlock. 64xtile.PlasticBlock@0
-Found ItemStack Mekanism:ReinforcedPlasticBlock. 64xtile.ReinforcedPlasticBlock@0
-Found ItemStack Mekanism:RoadPlasticBlock. 64xtile.RoadPlasticBlock@0
-Found ItemStack Mekanism:SlickPlasticBlock. 64xtile.SlickPlasticBlock@0
-override called. Params: Mekanism, Balloon, 0
-Regex match found! Mekanism:Balloon matches Mekanism:Balloon.
-Found ItemStack Mekanism:Balloon. 64xitem.Balloon@0
-override called. Params: Mekanism, GlowPanel, 0
-Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
-Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: Artifice:tile.artifice.lamp.lime
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Artifice:tile.artifice.lamp.lime
+getRandomMaterial called. Returned: Artifice:tile.artifice.glasswall_3
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Artifice:tile.artifice.glasswall_3
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: Artifice:tile.artifice.glasswall_3
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Artifice:tile.artifice.glasswall_3
+getRandomMaterial called. Returned: Artifice:tile.artifice.lamp.black
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Artifice:tile.artifice.lamp.black
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 4946
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 2197
+getFacadesSize called. Returned: 4628
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 3863
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor.
@@ -400,9 +359,9 @@ Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 3740
+getNumberOfTypes called. Returned: 3453
 The function override_item is deprecated. Please use override instead! This function will be removed in a future version!
-override called. Params: appliedenergistics2, item.ItemFacade, 344
+override called. Params: appliedenergistics2, item.ItemFacade, 3060
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
