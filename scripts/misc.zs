@@ -21,11 +21,10 @@ val wearyspores = <redgear_brewcraft:RedGear.Brewcraft.Ingredients:4>;
 val medicinalsalve = <redgear_brewcraft:RedGear.Brewcraft.Ingredients:5>;
 val BCoil = <BuildCraft|Energy:blockOil>;
 val BCfuel = <BuildCraft|Energy:blockFuel>;
-val bamboocharcoal = <Growthcraft|Bamboo:grc.bambooCoal>
+val bamboocharcoal = <Growthcraft|Bamboo:grc.bambooCoal>;
 mods.thaumcraft.Aspects.set(glintweed, "lux 1");
 mods.thaumcraft.Aspects.set(wearyspores, "desidia 1");
 mods.thaumcraft.Aspects.set(medicinalsalve, "sano 1");
 mods.thaumcraft.Aspects.set(BCoil, "vinculum 1, venenum 1, potentia 2");
 mods.thaumcraft.Aspects.set(BCfuel, "machina 1, potentia 3");
 mods.thaumcraft.Aspects.set(bamboocharcoal, "ignis 1, potentia 1");
-
