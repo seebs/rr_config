@@ -651,6 +651,7 @@
                 </bags>
             </utilityObject>
 	    <lighting>
+                <sojournerStaff id="xreliquary:sojourner_staff"/>
 	        <bloodLamp id="AWWayofTime:itemBloodLightSigil"/>
                 <torch id="torch"/>
                 <ticoTorch id="TConstruct:decoration.stonetorch"/>
