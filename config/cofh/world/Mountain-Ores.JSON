@@ -3,15 +3,13 @@
         "template": "normal",
         "block": "appliedenergistics2:tile.BlockSkyStone",
 		"material": "stone",
-        "clusterSize": 35,
-        "numClusters": 12,
+        "clusterSize": 10,
+        "numClusters": 1,
         "meanHeight": 175,
         "maxVariance": 10,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -22,15 +20,13 @@
         "template": "normal",
         "block": "minecraft:iron_ore",
 		"material": "stone",
-        "clusterSize": 7,
-        "numClusters": 9,
+        "clusterSize": 4,
+        "numClusters": 10,
         "meanHeight": 123,
         "maxVariance": 49,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -41,15 +37,13 @@
         "template": "normal",
         "block": "minecraft:coal_ore",
 		"material": "stone",
-        "clusterSize": 12,
-        "numClusters": 13,
+        "clusterSize": 6,
+        "numClusters": 6,
         "meanHeight": 128,
         "maxVariance": 53,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -60,15 +54,13 @@
         "template": "normal",
         "block": "minecraft:gold_ore",
 		"material": "stone",
-        "clusterSize": 9,
-        "numClusters": 9,
+        "clusterSize": 5,
+        "numClusters": 2,
         "meanHeight": 153,
         "maxVariance": 24,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -79,15 +71,13 @@
         "template": "normal",
         "block": "minecraft:lapis_ore",
 		"material": "stone",
-        "clusterSize": 9,
-        "numClusters": 7,
+        "clusterSize": 4,
+        "numClusters": 2,
         "meanHeight": 148,
         "maxVariance": 24,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -98,15 +88,13 @@
         "template": "normal",
 		"block": "minecraft:emerald_ore",
 		"material": "stone",
-        "clusterSize": 7,
-        "numClusters": 9,
+        "clusterSize": 3,
+        "numClusters": 1,
         "meanHeight": 133,
         "maxVariance": 26,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -117,15 +105,13 @@
         "template": "normal",
 		"block": "minecraft:diamond_ore",
 		"material": "stone",
-        "clusterSize": 4,
-        "numClusters": 3,
+        "clusterSize": 2,
+        "numClusters": 1,
         "meanHeight": 180,
         "maxVariance": 90,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -136,15 +122,13 @@
         "template": "normal",
         "block": "Forestry:resources",
 		"material": "stone",
-        "clusterSize": 16,
-        "numClusters": 13,
+        "clusterSize": 8,
+        "numClusters": 3,
         "meanHeight": 103,
         "maxVariance": 29,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -155,15 +139,13 @@
         "template": "normal",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 5},
 		"material": "stone",
-        "clusterSize": 3,
-        "numClusters": 4,
+        "clusterSize": 2,
+        "numClusters": 1,
         "meanHeight": 173,
         "maxVariance": 12,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -174,15 +156,13 @@
         "template": "normal",
         "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 6},
 		"material": "stone",
-        "clusterSize": 9,
-        "numClusters": 5,
+        "clusterSize": 4,
+        "numClusters": 1,
         "meanHeight": 85,
         "maxVariance": 16,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -193,15 +173,13 @@
         "template": "normal",
         "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 4},
 		"material": "stone",
-        "clusterSize": 9,
-        "numClusters": 5,
+        "clusterSize": 4,
+        "numClusters": 1,
         "meanHeight": 145,
         "maxVariance": 24,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
@@ -212,15 +190,13 @@
         "template": "normal",
         "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 1},
 		"material": "stone",
-        "clusterSize": 9,
-        "numClusters": 5,
+        "clusterSize": 4,
+        "numClusters": 1,
         "meanHeight": 174,
         "maxVariance": 16,
         "retrogen": "true",
         "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
+        "biomes": [],
         "dimensionRestriction": "blacklist",
         "dimensions": [
             -1,
