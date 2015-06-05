@@ -86,7 +86,7 @@
     },
 	    "Zinc": {
         "template": "normal",
-        "block": "Metallurgy:precious.ore",
+        "block": {"Steamcraft:steamcraftOre", "metadata": 1},
 		"material": "stone",
         "clusterSize": 6,
         "numClusters": 4,
