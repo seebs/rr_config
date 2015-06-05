@@ -7,32 +7,16 @@ Setting up NEI Library...
 Setting up CreativeTab library...
 Found creative tab: tabBloodMagic
 Found creative tab: misc
-Found creative tab: IC2
-Found creative tab: materials
-Found creative tab: decorations
-Found creative tab: search
-Found creative tab: tabs.awcore
-Found creative tab: tabs.automation
-Found creative tab: tabs.npc
-Found creative tab: tabs.structures
-Found creative tab: transportation
-Found creative tab: aroma1997core:creativetab
-Found creative tab: aroma1997sdimension:creativeTabDW
-Found creative tab: tabGeneral
-Found creative tab: tabArtifacts
-Found creative tab: Artifice
-Found creative tab: Artifice Worldgen
 Found creative tab: Automagy
 Found creative tab: tab.backpacks
+Found creative tab: materials
 Found creative tab: tools
 Found creative tab: BiblioCraft
 Found creative tab: BiblioCraftLights
-Found creative tab: BiblioWoodsBoP
 Found creative tab: BiblioWoodsForestry
 Found creative tab: BiblioWoodsNatura
 Found creative tab: BigReactors
 Found creative tab: buildingBlocks
-Found creative tab: tabBiomesOPlenty
 Found creative tab: Botania
 Found creative tab: Botany
 Found creative tab: buildcraft.blocks
@@ -40,61 +24,38 @@ Found creative tab: buildcraft.items
 Found creative tab: buildcraft.boards
 Found creative tab: buildcraft.pipes
 Found creative tab: buildcraft.facades
-Found creative tab: Calculator
 Found creative tab: CarpentersBlocks
-Found creative tab: compactmachines
 Found creative tab: ComputerCraft
-Found creative tab: combat
+Found creative tab: decorations
 Found creative tab: blocksAndItems
 Found creative tab: food
 Found creative tab: toolsAndWeapons
-Found creative tab: Eln
 Found creative tab: enchiridion
 Found creative tab: EnderIO
 Found creative tab: EnderZoo
 Found creative tab: apiculture
+Found creative tab: extratic.items
 Found creative tab: arboriculture
 Found creative tab: extraUtil
+Found creative tab: combat
 Found creative tab: extraUtil_FMP
 Found creative tab: forbidden
 Found creative tab: mobcrystal
 Found creative tab: forestry
 Found creative tab: lepidopterology
-Found creative tab: GalacticraftItems
-Found creative tab: GalacticraftBlocks
-Found creative tab: gardenCore
-Found creative tab: gardenTrees
 Found creative tab: Genetics
-Found creative tab: gcewing_lighting:tab
-Found creative tab: tabGrowthCraft
-Found creative tab: tabGrCCellar
-Found creative tab: tabHardcoreEnderExpansion
-Found creative tab: redstone
-Found creative tab: tabHydraulicraft
-Found creative tab: tabGOW
-Found creative tab: IC2 NuclearControl 2
 Found creative tab: jabba
 Found creative tab: Logistics_Pipes
+Found creative tab: redstone
 Found creative tab: magicBees
-Found creative tab: Magistics
 Found creative tab: tabMekanism
-Found creative tab: Metallurgy.Machines
-Found creative tab: Metallurgy.Tools
-Found creative tab: Metallurgy.Items
-Found creative tab: Metallurgy.Blocks
-Found creative tab: Metallurgy.Armor
-Found creative tab: metallurgyCore.items
 Found creative tab: MineFactory Reloaded
 Found creative tab: natura.plants
+Found creative tab: transportation
 Found creative tab: natura.nether
 Found creative tab: natura.trees
 Found creative tab: Nether Ores
 Found creative tab: tabOpenBlocks
-Found creative tab: OpenComputers
-Found creative tab: tabOpenPeripheralAddons
-Found creative tab: Pistronics2
-Found creative tab: tabPneumaticCraft
-Found creative tab: Power Converters
 Found creative tab: TConstructBlocks
 Found creative tab: core
 Found creative tab: expansion
@@ -103,20 +64,13 @@ Found creative tab: ill
 Found creative tab: int
 Found creative tab: trans
 Found creative tab: transport
-Found creative tab: ProjectE
 Found creative tab: RArm.creativeTab
 Found creative tab: Random Things
 Found creative tab: redstonearsenal.creativeTab
 Found creative tab: RefinedRelocation
 Found creative tab: Router Reborn
 Found creative tab: soul_shards_reborn
-Found creative tab: tabSanguimancy
-Found creative tab: steamcraft
-Found creative tab: steamcraftTools
 Found creative tab: sfm
-Found creative tab: SC2Blocks
-Found creative tab: SC2Modules
-Found creative tab: SC2Items
 Found creative tab: steves_production
 Found creative tab: TConstructWeaponry
 Found creative tab: TConstructParts
@@ -136,15 +90,12 @@ Found creative tab: thermalfoundation.creativeTab
 Found creative tab: thermalfoundation.creativeTabArmor
 Found creative tab: thermalfoundation.creativeTabTools
 Found creative tab: thermalsmeltery.creativeTabItems
-Found creative tab: tubes
-Found creative tab: twilightForest
 Found creative tab: ztones
 Found creative tab: bdew.generators
 Found creative tab: bdew.ae2stuff
 Found creative tab: aobd
 Found creative tab: appliedenergistics2
 Found creative tab: appliedenergistics2.facades
-Found creative tab: aura
 Found creative tab: BuildcraftAdditions
 Found creative tab: bcaCanisters
 Found creative tab: bcaDusts
@@ -155,20 +106,9 @@ Found creative tab: tabStoneChiselBlocks
 Found creative tab: tabOtherChiselBlocks
 Found creative tab: tabChisel
 Found creative tab: tabMetalChiselBlocks
-Found creative tab: ChocoCraft
 Found creative tab: tabComputronics
 Found creative tab: enhancedportals
-Found creative tab: ExAstrisTab
 Found creative tab: Extra_Cells
-Found creative tab: Fluxed-Crystals
-Found creative tab: Fossil Items
-Found creative tab: Fossil Blocks
-Found creative tab: Fossil Combat
-Found creative tab: Fossil Bones
-Found creative tab: Fossil Material
-Found creative tab: Fossil Food
-Found creative tab: Fossil Test
-Found creative tab: Fossil Deco
 Found creative tab: funkylocomotion
 Found creative tab: ganysend
 Found creative tab: ganysnether
@@ -180,27 +120,14 @@ Found creative tab: guideapi.creativeTab
 Found creative tab: tabHarvestCraft2
 Found creative tab: tabHarvestCraft3
 Found creative tab: tabHarvestCraft
+Found creative tab: headcrumbs
 Found creative tab: magicalcrops
-Found creative tab: malisisdoors
-Found creative tab: menagerie
-Found creative tab: Falling Meteors Mod
-Found creative tab: bdew.canisters
-Found creative tab: bdew.pressure
-Found creative tab: tabPrimitiveMobs
-Found creative tab: props.main
 Found creative tab: inventoryGenerators
 Found creative tab: structureTools
-Found creative tab: brewcraft.big
-Found creative tab: brewcraft.misc
-Found creative tab: brewcraft.potions
-Found creative tab: brewcraft.vials
-Found creative tab: RfTools
-Found creative tab: RfToolsDimlets
 Found creative tab: tabSimplyJetpacks
 Found creative tab: Technomancy
 Found creative tab: ThaumicEnergistics
 Found creative tab: tabWitchery
-Found creative tab: xreliquary
 Setting up ForgeMicroblock Library...
 Setting up ExtraUtilities Library...
 Setting up BuildCraft Library...
@@ -258,17 +185,17 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: Artifice:tile.artifice.lamp.lime
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, Artifice:tile.artifice.lamp.lime
+getRandomMaterial called. Returned: ExtraTrees:log_18
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ExtraTrees:log_18
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: Artifice:tile.artifice.glasswall_3
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, Artifice:tile.artifice.glasswall_3
+getRandomMaterial called. Returned: ExtraTrees:log
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ExtraTrees:log
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 4946
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 2197
+getFacadesSize called. Returned: 3766
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 83
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor.
@@ -400,9 +327,9 @@ Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 3740
+getNumberOfTypes called. Returned: 2793
 The function override_item is deprecated. Please use override instead! This function will be removed in a future version!
-override called. Params: appliedenergistics2, item.ItemFacade, 344
+override called. Params: appliedenergistics2, item.ItemFacade, 506
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
@@ -422,3 +349,198 @@ override called. Params: MineFactoryReloaded, tile.mfr.stainedglass.block, 0
 hide called. Params: MineFactoryReloaded:fluid.mfr.liquid.milk.still, 0
 override called. Params: MineFactoryReloaded, tile.mfr.stainedglass.pane, 0
 override called. Params: MineFactoryReloaded, tile.mfr.conveyor, 0
+Loading: BCAdditions.js
+override called. Params: bcadditions, ironCanister, 0
+Regex match found! bcadditions:ironCanister matches bcadditions:ironCanister.
+Found ItemStack bcadditions:ironCanister. 1xitem.ironCanister@0
+override called. Params: bcadditions, goldCanister, 0
+Regex match found! bcadditions:goldCanister matches bcadditions:goldCanister.
+Found ItemStack bcadditions:goldCanister. 1xitem.goldCanister@0
+override called. Params: bcadditions, diamondCanister, 0
+Regex match found! bcadditions:diamondCanister matches bcadditions:diamondCanister.
+Found ItemStack bcadditions:diamondCanister. 1xitem.diamondCanister@0
+Loading: PressurePipes.js
+Loading: ExtraCells.js
+override called. Params: extracells, pattern.fluid, 0
+Regex match found! extracells:pattern.fluid matches extracells:pattern.fluid.
+Found ItemStack extracells:pattern.fluid. 1xitem.extracells.pattern.fluid@0
+Loading: Gendustry.js
+hide called. Params: gendustry, GeneSample
+Regex match found! gendustry:GeneSample matches gendustry:GeneSample.
+Found ItemStack gendustry:GeneSample. 1xitem.gendustry.GeneSample@0
+Loading: IC2.js
+Loading: BiblioWoods.js
+override called. Params: BiblioWoodsForestry, *, 0
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodClock.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodClock2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFancySign.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFancySign2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFancyWorkbench.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFancyWorkbench2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstBookcase.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstBookcase2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstcase0.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstcase1.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstdesk.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstdesk2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstlabel.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstlabel2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstpotshelf.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstpotshelf2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstrack.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstrack2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstshelf.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFstshelf2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFsttable.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodFsttable2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodMapFrame.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodMapFrame2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodPaintingT0.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodPaintingT0b.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodPaintingT1.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodPaintingT1b.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodPaintingT2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodPaintingT2b.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodPaintingT3.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodPaintingT3b.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodPaintingT4.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodPaintingT4b.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodSeat.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:BiblioWoodSeat2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:seatBack1.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:seatBack2.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:seatBack3.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:seatBack4.
+Regex match found! BiblioWoodsForestry:* matches BiblioWoodsForestry:seatBack5.
+Found ItemStack BiblioWoodsForestry:BiblioWoodClock. 64xtile.BiblioWoodClock@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodClock2. 64xtile.BiblioWoodClock2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFancySign. 64xtile.BiblioWoodFancySign@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFancySign2. 64xtile.BiblioWoodFancySign2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFancyWorkbench. 64xtile.BiblioWoodFancyWorkbench@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFancyWorkbench2. 64xtile.BiblioWoodFancyWorkbench2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstBookcase. 64xtile.BiblioWoodFstBookcase@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstBookcase2. 64xtile.BiblioWoodFstBookcase2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstcase0. 64xtile.BiblioWoodFstcase0@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstcase1. 64xtile.BiblioWoodFstcase1@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstdesk. 64xtile.BiblioWoodFstdesk@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstdesk2. 64xtile.BiblioWoodFstdesk2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstlabel. 64xtile.BiblioWoodFstlabel@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstlabel2. 64xtile.BiblioWoodFstlabel2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstpotshelf. 64xtile.BiblioWoodFstpotshelf@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstpotshelf2. 64xtile.BiblioWoodFstpotshelf2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstrack. 64xtile.BiblioWoodFstrack@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstrack2. 64xtile.BiblioWoodFstrack2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstshelf. 64xtile.BiblioWoodFstshelf@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstshelf2. 64xtile.BiblioWoodFstshelf2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFsttable. 64xtile.BiblioWoodFsttable@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFsttable2. 64xtile.BiblioWoodFsttable2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodMapFrame. 64xtile.BiblioWoodMapFrame@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodMapFrame2. 64xtile.BiblioWoodMapFrame2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT0. 64xtile.BiblioWoodPaintingT0@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT0b. 64xtile.BiblioWoodPaintingT0b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT1. 64xtile.BiblioWoodPaintingT1@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT1b. 64xtile.BiblioWoodPaintingT1b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT2. 64xtile.BiblioWoodPaintingT2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT2b. 64xtile.BiblioWoodPaintingT2b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT3. 64xtile.BiblioWoodPaintingT3@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT3b. 64xtile.BiblioWoodPaintingT3b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT4. 64xtile.BiblioWoodPaintingT4@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT4b. 64xtile.BiblioWoodPaintingT4b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodSeat. 64xtile.BiblioWoodSeat@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodSeat2. 64xtile.BiblioWoodSea2t@0
+Found ItemStack BiblioWoodsForestry:seatBack1. 64xitem.seatBack@0
+Found ItemStack BiblioWoodsForestry:seatBack2. 64xitem.seatBack@0
+Found ItemStack BiblioWoodsForestry:seatBack3. 64xitem.seatBack@0
+Found ItemStack BiblioWoodsForestry:seatBack4. 64xitem.seatBack@0
+Found ItemStack BiblioWoodsForestry:seatBack5. 64xitem.seatBack@0
+hide called. Params: BiblioWoodsForestry, BiblioWoodFst*2
+Regex match found! BiblioWoodsForestry:BiblioWoodFst*2 matches BiblioWoodsForestry:BiblioWoodFstBookcase2.
+Regex match found! BiblioWoodsForestry:BiblioWoodFst*2 matches BiblioWoodsForestry:BiblioWoodFstdesk2.
+Regex match found! BiblioWoodsForestry:BiblioWoodFst*2 matches BiblioWoodsForestry:BiblioWoodFstlabel2.
+Regex match found! BiblioWoodsForestry:BiblioWoodFst*2 matches BiblioWoodsForestry:BiblioWoodFstpotshelf2.
+Regex match found! BiblioWoodsForestry:BiblioWoodFst*2 matches BiblioWoodsForestry:BiblioWoodFstrack2.
+Regex match found! BiblioWoodsForestry:BiblioWoodFst*2 matches BiblioWoodsForestry:BiblioWoodFstshelf2.
+Regex match found! BiblioWoodsForestry:BiblioWoodFst*2 matches BiblioWoodsForestry:BiblioWoodFsttable2.
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstBookcase2. 64xtile.BiblioWoodFstBookcase2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstdesk2. 64xtile.BiblioWoodFstdesk2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstlabel2. 64xtile.BiblioWoodFstlabel2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstpotshelf2. 64xtile.BiblioWoodFstpotshelf2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstrack2. 64xtile.BiblioWoodFstrack2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstshelf2. 64xtile.BiblioWoodFstshelf2@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodFsttable2. 64xtile.BiblioWoodFsttable2@0
+hide called. Params: BiblioWoodsForestry, BiblioWoodFstcase1
+Regex match found! BiblioWoodsForestry:BiblioWoodFstcase1 matches BiblioWoodsForestry:BiblioWoodFstcase1.
+Found ItemStack BiblioWoodsForestry:BiblioWoodFstcase1. 64xtile.BiblioWoodFstcase1@0
+hide called. Params: BiblioWoodsForestry, BiblioWoodSeat2
+Regex match found! BiblioWoodsForestry:BiblioWoodSeat2 matches BiblioWoodsForestry:BiblioWoodSeat2.
+Found ItemStack BiblioWoodsForestry:BiblioWoodSeat2. 64xtile.BiblioWoodSea2t@0
+hide called. Params: BiblioWoodsForestry, BiblioWoodMapFrame2
+Regex match found! BiblioWoodsForestry:BiblioWoodMapFrame2 matches BiblioWoodsForestry:BiblioWoodMapFrame2.
+Found ItemStack BiblioWoodsForestry:BiblioWoodMapFrame2. 64xtile.BiblioWoodMapFrame2@0
+hide called. Params: BiblioWoodsForestry, BiblioWoodFancySign2
+Regex match found! BiblioWoodsForestry:BiblioWoodFancySign2 matches BiblioWoodsForestry:BiblioWoodFancySign2.
+Found ItemStack BiblioWoodsForestry:BiblioWoodFancySign2. 64xtile.BiblioWoodFancySign2@0
+hide called. Params: BiblioWoodsForestry, BiblioWoodFancyWorkbench2
+Regex match found! BiblioWoodsForestry:BiblioWoodFancyWorkbench2 matches BiblioWoodsForestry:BiblioWoodFancyWorkbench2.
+Found ItemStack BiblioWoodsForestry:BiblioWoodFancyWorkbench2. 64xtile.BiblioWoodFancyWorkbench2@0
+hide called. Params: BiblioWoodsForestry, BiblioWoodClock2
+Regex match found! BiblioWoodsForestry:BiblioWoodClock2 matches BiblioWoodsForestry:BiblioWoodClock2.
+Found ItemStack BiblioWoodsForestry:BiblioWoodClock2. 64xtile.BiblioWoodClock2@0
+hide called. Params: BiblioWoodsForestry, BiblioWoodPaintingT*b
+Regex match found! BiblioWoodsForestry:BiblioWoodPaintingT*b matches BiblioWoodsForestry:BiblioWoodPaintingT0b.
+Regex match found! BiblioWoodsForestry:BiblioWoodPaintingT*b matches BiblioWoodsForestry:BiblioWoodPaintingT1b.
+Regex match found! BiblioWoodsForestry:BiblioWoodPaintingT*b matches BiblioWoodsForestry:BiblioWoodPaintingT2b.
+Regex match found! BiblioWoodsForestry:BiblioWoodPaintingT*b matches BiblioWoodsForestry:BiblioWoodPaintingT3b.
+Regex match found! BiblioWoodsForestry:BiblioWoodPaintingT*b matches BiblioWoodsForestry:BiblioWoodPaintingT4b.
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT0b. 64xtile.BiblioWoodPaintingT0b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT1b. 64xtile.BiblioWoodPaintingT1b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT2b. 64xtile.BiblioWoodPaintingT2b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT3b. 64xtile.BiblioWoodPaintingT3b@0
+Found ItemStack BiblioWoodsForestry:BiblioWoodPaintingT4b. 64xtile.BiblioWoodPaintingT4b@0
+override called. Params: BiblioWoodsNatura, *, 0
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodBookcase.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodClock.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodFancySign.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodFancyWorkbench.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodMapFrame.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodPaintingT0.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodPaintingT1.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodPaintingT2.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodPaintingT3.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodPaintingT4.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodSeat.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodcase0.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWooddesk.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodlabel.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodpotshelf.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodrack.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodshelf.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:BiblioWoodtable.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:seatBack1.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:seatBack2.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:seatBack3.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:seatBack4.
+Regex match found! BiblioWoodsNatura:* matches BiblioWoodsNatura:seatBack5.
+Found ItemStack BiblioWoodsNatura:BiblioWoodBookcase. 64xtile.BiblioWoodBookcase@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodClock. 64xtile.BiblioWoodClock@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodFancySign. 64xtile.BiblioWoodFancySign@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodFancyWorkbench. 64xtile.BiblioWoodFancyWorkbench@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodMapFrame. 64xtile.BiblioWoodMapFrame@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT0. 64xtile.BiblioWoodPaintingT0@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT1. 64xtile.BiblioWoodPaintingT1@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT2. 64xtile.BiblioWoodPaintingT2@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT3. 64xtile.BiblioWoodPaintingT3@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodPaintingT4. 64xtile.BiblioWoodPaintingT4@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodSeat. 64xtile.BiblioWoodSeat@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodcase0. 64xtile.BiblioWoodcase@0
+Found ItemStack BiblioWoodsNatura:BiblioWooddesk. 64xtile.BiblioWooddesk@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodlabel. 64xtile.BiblioWoodlabel@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodpotshelf. 64xtile.BiblioWoodpotshelf@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodrack. 64xtile.BiblioWoodrack@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodshelf. 64xtile.BiblioWoodshelf@0
+Found ItemStack BiblioWoodsNatura:BiblioWoodtable. 64xtile.BiblioWoodtable@0
+Found ItemStack BiblioWoodsNatura:seatBack1. 64xitem.seatBack@0
+Found ItemStack BiblioWoodsNatura:seatBack2. 64xitem.seatBack@0
+Found ItemStack BiblioWoodsNatura:seatBack3. 64xitem.seatBack@0
+Found ItemStack BiblioWoodsNatura:seatBack4. 64xitem.seatBack@0
+Found ItemStack BiblioWoodsNatura:seatBack5. 64xitem.seatBack@0
