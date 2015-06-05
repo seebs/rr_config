@@ -1,0 +1,30 @@
+subworlds:
+oldNorthWorlds:
+name:Bed,x:-99,z:75,y:65,enabled:true,red:0.6807869,green:0.88814956,blue:0.8650703,suffix:,world:,dimensions:0#
+name:Proj red marble,x:-34,z:111,y:52,enabled:true,red:0.7826143,green:0.6575231,blue:0.88080925,suffix:,world:,dimensions:0#
+name:Wolf,x:439,z:172,y:77,enabled:true,red:0.5618832,green:0.30985922,blue:0.14759171,suffix:,world:,dimensions:0#
+name:Rail junk,x:474,z:8,y:67,enabled:true,red:0.92021614,green:0.35040712,blue:0.8133656,suffix:,world:,dimensions:0#
+name:Cathedral thing,x:344,z:-87,y:85,enabled:true,red:0.6480224,green:0.14800829,blue:0.072475255,suffix:,world:,dimensions:0#
+name:Edge of blasted,x:-146,z:13,y:5,enabled:true,red:0.36281937,green:0.12041259,blue:0.0012615323,suffix:,world:,dimensions:0#
+name:Bridge home,x:-48,z:616,y:84,enabled:true,red:0.20736074,green:0.38956475,blue:0.16535747,suffix:,world:,dimensions:-1#
+name:Blasted,x:-16,z:8,y:3,enabled:true,red:0.38705677,green:0.21601003,blue:0.19649208,suffix:,world:,dimensions:0#
+name:Wolf,x:-465,z:-142,y:84,enabled:true,red:0.6837418,green:0.37364972,blue:0.051695228,suffix:,world:,dimensions:0#
+name:Sheeps,x:-496,z:-211,y:81,enabled:true,red:0.25317287,green:0.3802176,blue:0.23296863,suffix:,world:,dimensions:0#
+name:Many coven witches,x:-1914,z:-654,y:64,enabled:true,red:0.926256,green:0.15168858,blue:0.19397902,suffix:,world:,dimensions:0#
+name:Horses,x:-616,z:618,y:69,enabled:true,red:0.020137727,green:0.56554234,blue:0.40345478,suffix:,world:,dimensions:0#
+name:Hungry node?,x:1005,z:-1091,y:83,enabled:true,red:0.370214,green:0.87902963,blue:0.9276597,suffix:,world:,dimensions:0#
+name:Hungry node,x:1269,z:-1155,y:68,enabled:true,red:0.97923285,green:0.8508801,blue:0.29385138,suffix:,world:,dimensions:0#
+name:Oil spout,x:1561,z:-1147,y:83,enabled:true,red:0.3238939,green:0.96935725,blue:0.9070341,suffix:,world:,dimensions:0#
+name:Aw2 fort,x:1797,z:-890,y:68,enabled:true,red:0.39200187,green:0.5098739,blue:0.22149682,suffix:,world:,dimensions:0#
+name:Previous Death 1,x:-109,z:58,y:65,enabled:true,red:0.9375,green:0.9375,blue:0.9375,suffix:Skull,world:,dimensions:0#
+name:Oilspout,x:410,z:1019,y:65,enabled:true,red:0.53004974,green:0.88135344,blue:0.8487113,suffix:,world:,dimensions:0#
+name:AW2 village,x:352,z:1095,y:68,enabled:true,red:0.36553085,green:0.24563009,blue:0.6081293,suffix:,world:,dimensions:0#
+name:Proj Red~colon~ volcano,x:1160,z:3192,y:73,enabled:true,red:0.50080866,green:0.46446323,blue:0.84157103,suffix:,world:,dimensions:0#
+name:Donkey,x:729,z:2754,y:69,enabled:true,red:0.10265297,green:0.6134817,blue:0.7096782,suffix:,world:,dimensions:0#
+name:Way up,x:-664,z:728,y:22,enabled:true,red:0.006280005,green:0.92426336,blue:0.7475089,suffix:,world:,dimensions:-1#
+name:Way home,x:-94,z:39,y:34,enabled:true,red:0.79255086,green:0.31418753,blue:0.9992948,suffix:,world:,dimensions:7#
+name:Latest Death,x:-209,z:21,y:32,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:Skull,world:,dimensions:7#
+name:Mushroom soup lake,x:-65,z:-360,y:34,enabled:true,red:0.14506882,green:0.43251562,blue:0.89184356,suffix:,world:,dimensions:7#
+name:Way home,x:-123,z:70,y:61,enabled:true,red:0.12067622,green:0.9774055,blue:0.22207516,suffix:,world:,dimensions:66#
+name:Home,x:7,z:3,y:65,enabled:true,red:0.5685363,green:0.90705,blue:0.23900062,suffix:,world:,dimensions:4#
+name:Home,x:8,z:3,y:64,enabled:true,red:0.88694966,green:0.37337297,blue:0.012050152,suffix:,world:,dimensions:5#

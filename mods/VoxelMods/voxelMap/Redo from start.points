@@ -1,0 +1,18 @@
+subworlds:
+oldNorthWorlds:
+name:Books,x:66,z:-178,y:72,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:0#
+name:House loc,x:-120,z:-524,y:85,enabled:true,red:0.16115701,green:0.6100998,blue:0.3161742,suffix:,world:,dimensions:0#
+name:Gravel ore,x:-866,z:-589,y:72,enabled:true,red:0.6096482,green:0.791484,blue:0.45140678,suffix:,world:,dimensions:0#
+name:Bees village,x:-914,z:-604,y:71,enabled:true,red:0.18027055,green:0.21313912,blue:0.5241588,suffix:,world:,dimensions:0#
+name:Nether stuff,x:-839,z:-442,y:78,enabled:true,red:0.7431647,green:0.79997826,blue:0.74836105,suffix:,world:,dimensions:0#
+name:Wisp spawner,x:-733,z:-409,y:92,enabled:true,red:0.32439685,green:0.25591195,blue:0.16280562,suffix:,world:,dimensions:0#
+name:Wolf,x:-611,z:-348,y:85,enabled:true,red:0.78790444,green:0.14985353,blue:0.7238324,suffix:,world:,dimensions:0#
+name:AE2 meteor,x:-276,z:-622,y:67,enabled:true,red:0.10798144,green:0.7640807,blue:0.19752347,suffix:,world:,dimensions:0#
+name:Way home,x:-216,z:-544,y:70,enabled:true,red:0.014266849,green:0.8083813,blue:0.65589345,suffix:,world:,dimensions:-1#
+name:Bee village,x:-999,z:-1088,y:72,enabled:true,red:0.16728783,green:0.9534408,blue:0.87164366,suffix:,world:,dimensions:0#
+name:Wisp,x:-480,z:-772,y:88,enabled:true,red:0.76247436,green:0.70199674,blue:0.22902125,suffix:,world:,dimensions:0#
+name:Way home,x:-432,z:-731,y:38,enabled:true,red:0.07931167,green:0.015428305,blue:0.80699307,suffix:,world:,dimensions:7#
+name:Ender portal,x:-50,z:-1111,y:22,enabled:true,red:0.08030695,green:0.45344573,blue:0.3824088,suffix:,world:,dimensions:0#
+name:Portal home,x:-30,z:-59,y:62,enabled:true,red:0.41346085,green:0.35830826,blue:0.56056464,suffix:,world:,dimensions:1#
+name:Hungry node,x:-698,z:-480,y:36,enabled:true,red:0.034965992,green:0.47878742,blue:0.8893284,suffix:,world:,dimensions:7#
+name:Tower,x:33,z:1940,y:102,enabled:true,red:0.8631134,green:0.71693736,blue:0.64787054,suffix:,world:,dimensions:1#

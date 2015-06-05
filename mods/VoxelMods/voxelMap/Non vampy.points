@@ -1,0 +1,16 @@
+subworlds:
+oldNorthWorlds:
+name:Stuff,x:237,z:-3,y:87,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:0#
+name:Staging area,x:25,z:229,y:76,enabled:true,red:0.44443738,green:0.42939514,blue:0.8737023,suffix:,world:,dimensions:0#
+name:House loc,x:-128,z:121,y:70,enabled:true,red:0.8810383,green:0.5906634,blue:0.46208304,suffix:,world:,dimensions:0#
+name:Way home,x:-112,z:152,y:55,enabled:true,red:0.6661585,green:0.8883176,blue:0.77351326,suffix:,world:,dimensions:-1#
+name:Dense ores,x:-608,z:-272,y:46,enabled:true,red:0.28783613,green:0.087004244,blue:0.5675413,suffix:,world:,dimensions:-1#
+name:Previous Death 1,x:1416,z:-360,y:45,enabled:true,red:0.9375,green:0.9375,blue:0.9375,suffix:skull,world:,dimensions:-1#
+name:Ender ore vein,x:-185,z:110,y:33,enabled:true,red:0.5794782,green:0.18034428,blue:0.113666415,suffix:,world:,dimensions:0#
+name:Oil,x:-224,z:83,y:28,enabled:true,red:0.37533152,green:0.78126967,blue:0.8883103,suffix:,world:,dimensions:0#
+name:Hungry node,x:593,z:-948,y:65,enabled:true,red:0.78774387,green:0.21754462,blue:0.5178394,suffix:,world:,dimensions:0#
+name:Tropicals spotted,x:409,z:-806,y:70,enabled:true,red:0.93983597,green:0.49382728,blue:0.76089215,suffix:,world:,dimensions:0#
+name:Way home,x:-95,z:140,y:36,enabled:true,red:0.5953427,green:0.0942328,blue:0.0759204,suffix:,world:,dimensions:7#
+name:Terra node,x:522,z:-90,y:91,enabled:true,red:0.36740047,green:0.46188557,blue:0.17384201,suffix:,world:,dimensions:0#
+name:Steal this,x:522,z:-116,y:111,enabled:true,red:0.12315965,green:0.58426034,blue:0.17286491,suffix:,world:,dimensions:0#
+name:Massive ordo,x:-93,z:65,y:43,enabled:true,red:0.87083584,green:0.89718086,blue:0.3741228,suffix:,world:,dimensions:7#
