@@ -1,0 +1,16 @@
+{
+  "name": "Kintsugi",
+  "title": "Kintsugi",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": [
+    ]
+  },
+  "userFiles": {
+    "include": [
+      "options.txt",
+      "optionsshaders.txt",
+      "mods/VoxelMods/*"
+    ]
+  }
+}

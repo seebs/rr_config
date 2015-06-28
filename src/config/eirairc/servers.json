@@ -1,0 +1,17 @@
+[
+  {
+    "address": "irc.esper.net",
+    "nick": "%USERNAME%",
+    "bot": {
+      "ident": "EIRC_RR",
+      "description": "EiraIRC Bot for Resonant Rise",
+      "quitMessage": "Play MOAR Resonant Rise! You know you want to!",
+      "relayIRCJoinLeave": false
+    },
+    "channels": [
+      {
+        "name": "#rr"
+      }
+    ]
+  }
+]
