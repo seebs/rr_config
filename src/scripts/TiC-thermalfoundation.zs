@@ -85,6 +85,3 @@ mods.tconstruct.Casting.addTableRecipe(<TConstruct:BoltPart:1023>.withTag({DualM
 mods.tconstruct.Casting.addTableRecipe(<TConstruct:BoltPart:1024>.withTag({DualMat: {Material2: 1024}}), <liquid:platinum.molten> *144, <TConstruct:toolRod:1024>, true, 20);
 # Electrum
 mods.tconstruct.Casting.addTableRecipe(<TConstruct:BoltPart:1025>.withTag({DualMat: {Material2: 1024}}), <liquid:platinum.molten> *144, <TConstruct:toolRod:1025>, true, 20);
-
-var platinum = <liquid:platinum.molten>;
-platinum.add(<TConstruct:fluid.molten.shiny>);
