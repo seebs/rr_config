@@ -6,17 +6,17 @@
 # 1 ingot = 16*9  = 144
 # 1 block = 144*9 = 1296
 #
-# Aluminium     300°C Al.Brass
-# Nickel        350°C Tin, Lead, Silver, Platinum, Invar, Lumium
-# Gold          400°C Electrum, Signalum
-# Bronze        450°C
-# Copper        500°C Glass(Sand =800°C)
-# Iron          600°C Ardite, Cobalt
-# Steel         650°C
-# Manyullyn     700°C
-# Alumite       750°C Mithril
-# Obsidian      850°C
-# Enderium    1'000°C
+# Aluminium     300C Al.Brass
+# Nickel        350C Tin, Lead, Silver, Platinum, Invar, Lumium
+# Gold          400C Electrum, Signalum
+# Bronze        450C
+# Copper        500C Glass(Sand =800C)
+# Iron          600C Ardite, Cobalt
+# Steel         650C
+# Manyullyn     700C
+# Alumite       750C Mithril
+# Obsidian      850C
+# Enderium    1'000C
 
 # mods.tconstruct.Smeltery.addAlloy(
 #   <liquid:manyullyn.molten> * 16, [
