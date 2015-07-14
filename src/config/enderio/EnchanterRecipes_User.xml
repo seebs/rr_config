@@ -24,10 +24,8 @@
   
  -->
 
-<enchaterRecipes>
   <enchantment name="simplyjetpacks.enchantment.fuelEfficiency" costPerLevel="1">
     <itemStack oreDictionary="dustAerotheum" number="4"/>
   </enchantment>
-</enchaterRecipes>
 
 </enchaterRecipes>
