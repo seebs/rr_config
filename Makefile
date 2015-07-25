@@ -1,7 +1,7 @@
 default: client
 
 client:
-	java -jar launcher-builder-4.2.3-SNAPSHOT-all.jar --version 0.5.0 --input . --output upload_data --manifest-dest "upload_data/kintsugi.json"
+	java -jar launcher-builder-4.2.3-SNAPSHOT-all.jar --version 0.5.1 --input . --output upload_data --manifest-dest "upload_data/kintsugi.json"
 
 server:
 	mv minecraft/mods minecraft/mods.old
