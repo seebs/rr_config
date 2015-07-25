@@ -50,7 +50,14 @@ recipes.addShaped(shaftSteel,
  [[<ore:ingotSteel>, null, null],
   [<ore:ingotSteel>, null, null],
   [<ore:ingotSteel>, null, null]]);
-  
+
+// But that steel shaft conflicts with railcraft turbine blades, SO:
+recipes.remove (<Railcraft:part.turbine.blade>);
+recipes.addShaped (<Railcraft:part.turbine.blade>,
+  [[null, <ore:ingotSteel>, null],
+   [null, <ore:ingotSteel>, null],
+   [null, <ore:ingotSteel>, null]]);
+
 // Light Junction
 recipes.remove(<AncientWarfareAutomation:torque_conduit:0>);
 recipes.addShaped(<AncientWarfareAutomation:torque_conduit:0>,
